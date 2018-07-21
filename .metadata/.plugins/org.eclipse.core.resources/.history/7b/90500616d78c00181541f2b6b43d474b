@@ -1,0 +1,10 @@
+package com.javalec.ex;
+
+public class StudentInfo {
+	private Student student;
+	
+	public StudentInfo(){
+		
+	}
+
+}

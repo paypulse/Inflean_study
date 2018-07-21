@@ -1,0 +1,14 @@
+package com.javalec.ex;
+
+public class BMICalculator {
+	private double lowWeight;
+	private double normal;
+	private double overWeight;
+	private double obesity;
+	
+	public void bmiCalculation(double weight, double height){
+		double h = height * 0.01;
+		double reslut = weight/(h*h);
+		
+	}
+}

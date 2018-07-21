@@ -1,0 +1,6 @@
+package com.javalec.ex;
+
+public class Student {
+	private String name;
+	public String age;
+}

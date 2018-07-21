@@ -1,0 +1,14 @@
+package com.javalec.ex;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//config file 2개를 모두 설정 
+		String configLocation1 = "classpath:applicationCTX.xml";
+		String configLocation2 = "classpath:applicationCTX1.xml";
+
+	}
+
+}
