@@ -29,19 +29,7 @@ public class MainClass {
 		Student student3 = ctx.getBean("student3", Student.class);
 		System.out.println(student3.getName());
 		
-		if(student1.equals(student3)){
-			System.out.println("student1 == student3");
-		}else{
-			System.out.println("student1 != student3");
-		}
 		
-		Family family = ctx.getBean("family", Family.class);
-		System.out.println(family.getPapaName());
-		System.out.println(family.getMamiName());
-		System.out.println(family.getSisterName());
-		System.out.println(family.getBrotherName());
-		
-		ctx.close();
 		
 
 	}
