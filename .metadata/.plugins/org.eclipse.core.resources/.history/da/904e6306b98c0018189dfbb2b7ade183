@@ -1,0 +1,19 @@
+package com.javalec.ex;
+
+public class Calculator {
+	
+	public void addition(int f, int s){
+		
+	}
+	public void subtraction(int f, int s){
+		
+	}
+	
+	public void multiplication(int f, int s){
+		
+	}
+	public void division(int f, int s){
+		
+	}
+
+}
