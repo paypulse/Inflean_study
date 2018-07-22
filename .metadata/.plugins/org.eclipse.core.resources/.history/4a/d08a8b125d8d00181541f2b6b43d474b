@@ -1,0 +1,7 @@
+package com.javalec.ex;
+
+
+@Configuration
+public class ApplicationConfig {
+
+}

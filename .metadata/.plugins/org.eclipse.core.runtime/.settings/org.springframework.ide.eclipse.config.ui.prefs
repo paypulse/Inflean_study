@@ -1,3 +1,10 @@
 //com.springsource.config.ui.prefs.activePageIndex\:/springEx_2_Di_Calculation/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 //com.springsource.config.ui.prefs.activePageIndex\:/springEx_3_Di2_Calculation/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_4_DI3_StudentInfo/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_5_DI4_Pencil/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_6_DI5_StudentHobby/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_6_DI5_StudentHobby/src/main/resources/applicationCTX1.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_8_ContatinerLifeCycle/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_8_DI7_mixjavaandxml/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springEx_9_BeanLifeCycle/src/main/resources/applicationCTX.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
 eclipse.preferences.version=1
